@@ -1,0 +1,6 @@
+{
+  "name": "Happy Birthday Madam Jii",
+  "description": "An interactive, animated birthday surprise web application with music, candle blowing, dynamic memories deck, and secret typed letters.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
